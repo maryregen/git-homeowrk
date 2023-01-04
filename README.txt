@@ -1,1 +1,1 @@
-This is a directory for third lesson! 
+Thiss is a directory for git homework!
