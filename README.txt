@@ -1,1 +1,1 @@
-Thiss is a directory for git homework!
+Thiss is a directory for git
